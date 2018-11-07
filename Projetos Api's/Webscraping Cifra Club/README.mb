@@ -1,0 +1,9 @@
+#Webscraping Cifra club
+
+* Download de todas as cifras de um artista em formato PDF
+
+| Requerimentos:   enscript | https://www.systutorials.com/docs/linux/man/1-enscript/
+
+* uso: ./webscraping.sh {url principal do artista}
+
+| Exemplo de uso: ./webscraping.sh https://www.cifraclub.com.br/fresno/
